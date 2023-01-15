@@ -1,0 +1,4 @@
+ - Seção disponível para ampla seleção de recursos.
+ [ https://registry.terraform.io/ ]
+
+Utilizar o portal para consultar mais detalhes sobre a ferramenta e suas interfaces de integração.
